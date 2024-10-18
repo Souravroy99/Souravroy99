@@ -15,6 +15,7 @@
 - 📫 How to reach me **souravroy200418@gmail.com**
 
 - ⚡ Fun fact **I have already cracked it**
+![Holopin Badge](https://assets.holopin.io/hf2024levels/level4-sloth-code-tumbler-robe-tail-moon.webp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
