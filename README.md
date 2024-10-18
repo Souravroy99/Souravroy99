@@ -15,7 +15,42 @@
 - 📫 How to reach me **souravroy200418@gmail.com**
 
 - ⚡ Fun fact **I have already cracked it**
-![Holopin Badge](https://assets.holopin.io/hf2024levels/level4-sloth-code-tumbler-robe-tail-moon.webp)
+
+
+ <br>
+<span>
+  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-tumbler-0-0-0.webp" 
+       alt="Holopin Badge" 
+       width="150" 
+       height="150" 
+       style="display: inline-block; margin-top: 20px; margin-right: 111px; vertical-align: top;">
+</span>
+
+<span>
+  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tumbler-robe-0-0.webp" 
+       alt="Holopin Badge" 
+       width="150" 
+       height="150" 
+       style="display: inline-block; margin-top: 20px; margin-right: 10px; vertical-align: top;">
+</span>
+
+<span>
+  <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tumbler-robe-tail-0.webp" 
+       alt="Holopin Badge" 
+       width="150" 
+       height="150" 
+       style="display: inline-block; margin-top: 20px; margin-right: 10px; vertical-align: top;">
+</span>
+
+<span>
+  <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tumbler-robe-tail-moon.webp" 
+       alt="Holopin Badge" 
+       width="150" 
+       height="150" 
+       style="display: inline-block; margin-top: 20px; vertical-align: top;">
+</span>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
