@@ -13,7 +13,7 @@
 - 💬 Ask me about **Frontend, Backend and MERN**
 
 - 📫 How to reach me **souravroy200418@gmail.com**
-
+- 🚀 Jalpaiguri Government Engineering College
 - ⚡ Fun fact **I have already cracked it**
 
 
