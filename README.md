@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AI Powered Fullstack Projects**
+- 🔭 I’m currently working on **Fullstack Projects**
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Frontend, Backend and MERN**
+- 💬 Ask me about **Backend**
 
 - 📫 How to reach me **souravroy200418@gmail.com**
 - 🚀 Jalpaiguri Government Engineering College
-- ⚡ Fun fact **I have already cracked it**
+- ⚡ 04.08.2025
 
 
  <br>
