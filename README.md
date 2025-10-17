@@ -54,7 +54,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sourav-roy-10e7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav-roy-10e7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sourav-roy-117447256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav-roy-10e7" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100084911628761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100084911628761" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/stroy_99_kgp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stroy_99_kgp" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/sourav69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sourav69" height="30" width="40" /></a>
