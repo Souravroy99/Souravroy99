@@ -7,14 +7,14 @@
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 🔭 I’m currently working on **Fullstack Projects**
+  
+<!-- - 🌱 I’m currently learning **Backend** -->
 
-- 🌱 I’m currently learning **Backend**
-
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Fullstack**
 
 - 📫 How to reach me **souravroy200418@gmail.com**
 - 🚀 Jalpaiguri Government Engineering College
-- ⚡ 04.08.2025
+- ⚡ 19.07.2025, 04.08.2025, 11.12.2025
 
 
  <br>
